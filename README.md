@@ -9,18 +9,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,60:0F2A4A,100:0EA5E9&section=header&text=Azeddine%20Jikhi&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer&descSize=19&descColor=CBD5E1&descAlignY=58" alt="Azeddine Jikhi — Full-Stack Developer | Data Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,60:0F2A4A,100:0EA5E9&section=header&text=Azeddine%20Jikhi&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer&descSize=19&descColor=CBD5E1&descAlignY=58" alt="Azeddine Jikhi — Full-Stack Developer | Data Science | Data Engineer" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/azzdinjikhi1-lang">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=44&lines=Building+intelligent+applications;Turning+raw+data+into+meaningful+solutions;From+the+interface+to+the+pipeline+behind+it" alt="Typing animation: Building intelligent applications. Turning raw data into meaningful solutions." />
 </a>
 
 <br />
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0B1220" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0B1220" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=38BDF8" alt="Contact by email" /></a>
+  <a href="https://github.com/azzdinjikhi1-lang"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0B1220" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/azeddine-jikhi-97a39535a/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0B1220" alt="LinkedIn" /></a>
+  <a href="mailto:azzdinjikhi1@gmail.com"><img src="https://img.shields.io/badge/Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=38BDF8" alt="Contact by email" /></a>
 </p>
 
 <sub>DUT in Data Engineering (2024–2026) · Bachelor in Data Science (2026–2027) · EST Kelaâ des Sraghna, Morocco</sub>
@@ -31,18 +31,19 @@
 
 ## About
 
-I'm a Data Engineering student who builds complete applications around data. My studies cover the data lifecycle, from collection and cleaning to storage and modeling, and my projects connect that work to real interfaces, APIs and databases.
+I'm a developer passionate about building applications that bring together **Data Engineering, Data Science and Full-Stack Development**.
 
-I enjoy working across the whole stack:
+I enjoy working across the entire development process, from collecting and processing data to building backend services, designing databases and creating user-friendly interfaces.
 
-- **Web applications** — responsive interfaces and clean user experiences
-- **Backend and APIs** — application logic, REST APIs and service architecture
-- **Databases** — relational design and SQL
-- **Data pipelines** — web scraping, cleaning, processing and ETL
-- **Machine Learning and analytics** — predictive models, visualization and reporting
+My main areas of interest include:
 
-I'm continuously developing my skills in Data Engineering and Data Science, and I'm looking for opportunities to learn and contribute on real projects.
+- **Full-Stack Development** — Building responsive web applications and user-friendly interfaces.
+- **Backend & APIs** — Developing application logic, REST APIs and backend services.
+- **Data Engineering** — Web scraping, data processing, cleaning and ETL pipelines.
+- **Data Science & Machine Learning** — Data analysis, predictive modeling and data visualization.
+- **Database Management** — SQL, relational database design and data modeling.
 
+I enjoy learning new technologies, solving technical problems and turning ideas into practical projects. I'm always looking to improve my skills and contribute to meaningful projects.
 <br />
 
 ## Technical Skills
@@ -51,7 +52,7 @@ I'm continuously developing my skills in Data Engineering and Data Science, and 
   <tr>
     <td width="220"><b>Full-Stack Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,flask,fastapi&theme=dark" alt="Python, JavaScript, HTML, CSS, React, Node.js, Flask, FastAPI" /><br />
+      <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,flask,fastapi&theme=dark" alt="Python, JavaScript, HTML, CSS, React, Node.js, Flask, FastAPI ,cpp" /><br />
       <sub><code>REST APIs</code></sub>
     </td>
   </tr>
@@ -88,7 +89,7 @@ I'm continuously developing my skills in Data Engineering and Data Science, and 
 
 ## Featured Projects
 
-### ImmoTrack — Real Estate Intelligence Platform
+### ImmoTrack — Plateforme SaaS d’analyse de l’investissement immobilier au Maroc
 
 > A data-driven platform that collects, processes, analyzes and evaluates Moroccan real estate listings to support investment decisions.
 
@@ -100,7 +101,6 @@ I'm continuously developing my skills in Data Engineering and Data Science, and 
 
 <img src="https://skillicons.dev/icons?i=py,react,nodejs,fastapi,postgres,prisma,docker&theme=dark" alt="Python, React, Node.js, FastAPI, PostgreSQL, Prisma, Docker" /> <img src="https://img.shields.io/badge/Machine%20Learning-0B1220?style=flat-square&logo=scikitlearn&logoColor=38BDF8" alt="Machine Learning" />
 
-[View repository](https://github.com/YOUR_USERNAME/REPO_IMMOTRACK)
 
 <br />
 
@@ -116,7 +116,6 @@ I'm continuously developing my skills in Data Engineering and Data Science, and 
 
 <img src="https://skillicons.dev/icons?i=py,flask,mysql,bootstrap&theme=dark" alt="Python, Flask, MySQL, Bootstrap" /> <img src="https://img.shields.io/badge/Chart.js-0B1220?style=flat-square&logo=chartdotjs&logoColor=38BDF8" alt="Chart.js" />
 
-[View repository](https://github.com/YOUR_USERNAME/REPO_REVIEWANALYZER)
 
 <br />
 
@@ -130,7 +129,6 @@ I'm continuously developing my skills in Data Engineering and Data Science, and 
 
 <img src="https://skillicons.dev/icons?i=py,flask,mysql&theme=dark" alt="Python, Flask, MySQL" />
 
-[View repository](https://github.com/YOUR_USERNAME/REPO_GED)
 
 <br />
 
@@ -167,38 +165,23 @@ flowchart TB
   </tr>
   <tr>
     <td><b>Internship</b></td>
-    <td><b>MyDeveloper</b> — ImmoTrack project<br /><sub>Dates and responsibilities to be added</sub></td>
+    <td><b>MyDeveloper</b> — ImmoTrack project<br /><sub>2026</sub></td>
+    <td><b>Conseil Provincial d’El Kelâa des Sraghna</b> — GED project<br /><sub>2025</sub></td>
   </tr>
 </table>
 
-<br />
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=818CF8&border_color=1E293B" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B1220&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B1220&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&area_color=38BDF8&hide_border=true" alt="Contribution activity graph" width="100%" />
-
-<sub>If a card does not load, the services are temporarily busy. See my <a href="https://github.com/YOUR_USERNAME">GitHub profile</a> for live activity.</sub>
-
-</div>
-
-<br />
 
 ## Let's Connect
 
-I'm open to internships and collaborative projects in full-stack development and data engineering. If you're working on something interesting, I'd be glad to talk.
+I'm open to **internship opportunities, collaborative projects, and professional connections** in Full-Stack Development, Data Engineering and Data Science.
+
+If you're working on an interesting project or have an opportunity to collaborate, feel free to reach out. I'd be happy to connect, exchange ideas and build something meaningful together.
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=38BDF8" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0B1220" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0B1220" alt="GitHub" /></a>
+<a href="mailto:azzdinjikhi1@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=38BDF8" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/azeddine-jikhi-97a39535a/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0B1220" alt="LinkedIn" /></a>
+<a href="https://github.com/azzdinjikhi1-lang"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0B1220" alt="GitHub" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0EA5E9,60:0F2A4A,100:0B1220&section=footer" alt="" width="100%" />
 

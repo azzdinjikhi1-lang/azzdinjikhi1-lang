@@ -9,8 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,60:0F2A4A,100:0EA5E9&section=header&text=Azeddine%20Jikhi&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20Engineer&descSize=19&descColor=CBD5E1&descAlignY=58" alt="Azeddine Jikhi — Full-Stack Developer | Data Science | Data Engineer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,60:0F2A4A,100:0EA5E9&section=header&text=Azeddine%20Jikhi&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descSize=17&descColor=CBD5E1&descAlignY=58" alt="Azeddine Jikhi — Full-Stack Development | Data Engineering | Data Science" width="100%" />
 <a href="https://github.com/azzdinjikhi1-lang">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=44&lines=Building+intelligent+applications;Turning+raw+data+into+meaningful+solutions;From+the+interface+to+the+pipeline+behind+it" alt="Typing animation: Building intelligent applications. Turning raw data into meaningful solutions." />
 </a>
